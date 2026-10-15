@@ -1,0 +1,27 @@
+{
+  "name": "idx-intern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rewap23/IDX-Exchange-Agentic-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rewap23/IDX-Exchange-Agentic-AI/issues"
+  },
+  "homepage": "https://github.com/rewap23/IDX-Exchange-Agentic-AI#readme",
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.24.6"
+  }
+}
